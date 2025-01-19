@@ -3,3 +3,16 @@
 </div>
 
 ### <div align="center">Welcome to the NovaStudios!</div>
+
+- 🌱 Our [Documentation](none)
+- ❓ Need Support? Visit our [Discord!](https://discord.gg/qs6pMkBmGz)
+
+<br/>
+
+## Connect with Us
+
+<div align="center">
+  <a href="https://discord.gg/qs6pMkBmGz" target="_blank">
+    <img src="https://img.shields.io/discord/1327693168275361954?style=for-the-badge&logo=discord&logoColor=%23fb9b04&logoSize=auto&label=Discord" alt=linkedin style="margin-bottom: 5px;" />
+  </a>
+</div>
