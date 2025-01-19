@@ -13,6 +13,6 @@
 
 <div align="center">
   <a href="https://discord.gg/qs6pMkBmGz" target="_blank">
-    <img src="https://img.shields.io/discord/1327693168275361954?style=for-the-badge&logo=discord&logoColor=%23fb9b04&logoSize=auto&label=Discord" alt=linkedin style="margin-bottom: 5px;" />
+    <img src="https://img.shields.io/discord/1327693168275361954?style=for-the-badge&logo=discord&labelColor=7289da&logoColor=white&color=2c2f33&label=Discord"/>
   </a>
 </div>
