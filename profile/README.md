@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.discordapp.net/attachments/1327728617320484954/1330663956548948200/novastudios.png?ex=678ecce1&is=678d7b61&hm=e836a7f22bf792ae782c0983b25afbc6d44e3b9442fea30a98f9652b520aa0d0&=&format=webp&quality=lossless&width=479&height=479" align="center" height="150" width="150" />
+  <img src="https://github.com/user-attachments/assets/b4f2db9c-81d1-4712-8ca9-361dc766e758" align="center" height="150" width="300" />
 </div>
 
 ### <div align="center">Welcome to the NovaStudios!</div>
