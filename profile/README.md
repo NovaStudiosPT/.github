@@ -4,7 +4,7 @@
 
 ### <div align="center">Welcome to the NovaStudios!</div>
 
-- 🌱 Our [Documentation](none)
+- 🌱 Our [Documentation](https://novastudiospt.gitbook.io/novastudios)
 - ❓ Need Support? Visit our [Discord!](https://discord.gg/qs6pMkBmGz)
 
 <br/>
